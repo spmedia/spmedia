@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on [redacted]<br>👯 I’m looking to collaborate on OSINT projects or CTFs. I love doing the Trace Labs Missing Persons CTFs. Highly interested in threat intelligence. Will hack for crypto. <br>🤝 I’m looking for help with OSINT projects<br>🌱 I’m currently learning python and red team stuffs<br>💬 Ask me about [redacted]<br>⚡ Fun fact [redacted]
 
+![urghhHhh](https://i.imgur.com/tm24J5V.mp4)
+
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/edmond_major) 
