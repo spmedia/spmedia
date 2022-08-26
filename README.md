@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on [redacted]<br>👯 I’m looking to collaborate on OSINT projects or CTFs. I love doing the Trace Labs Missing Persons CTFs. Highly interested in threat intelligence. Will hack for crypto or 150 acres of land. <br>🤝 I’m looking for help with OSINT projects<br>🌱 I’m currently learning python and red team stuffs<br>💬 Ask me about [redacted]<br>⚡ Fun fact [redacted]
 
-![urghhHhh](https://media1.giphy.com/media/jn8db76XhpnZe94oN0/giphy.gif?cid=790b76116e7a6ec11caba23936e7cf2ca2058e180db87260&rid=giphy.gif)
+![urghhHhh](https://camo.githubusercontent.com/39a6dcd8ca12269bedef74436b62f45a2f80ad6b9fd2bda5474837f1d4537a4a/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f546f4d6a4770417a6d765957515957516e38512f67697068792e6769663f6369643d6563663035653437376d757a39706b616c6e6b6e757677646c61697434796c6b746c6b636d78397a75336f7361646267267269643d67697068792e676966)
 
 
 ## 🌐 Socials:
